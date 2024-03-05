@@ -26,6 +26,7 @@ if __name__ == "__main__":
     run_script("main18.py")
     run_script("main19.py")
     run_script("main20.py")
+    #add more for more intense attack
   
 
 
