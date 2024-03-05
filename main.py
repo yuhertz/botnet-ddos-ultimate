@@ -30,7 +30,7 @@ if __name__ == "__main__":
   
 
 
-target_website = "https://theflatearthsociety.org/home/"
+target_website = input("Enter target website URL: ")
 
 
 def create_bots():
